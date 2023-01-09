@@ -186,11 +186,9 @@ Penjelasan:<br>
 ![SS21](https://user-images.githubusercontent.com/115518483/211165907-ba86c62c-3b69-4f85-afb2-6b5ef2d46b98.png)
 
 
-- Untuk melihat syntax - syntax program python yang sudah kita buat silahkan tekan ``Click Here`` :
+- Untuk melihat pembahasan silahkan klik link di bawah ini:
 
-1. Paket modul(daftar_nilai) [ Klik Disini ](Model/daftar_nilai.py)
-2. Package View(input_nilai) [ Click Here ](View/input_nilai.py) dan view(view_nilai) [ Click Here ](View/view_nilai.py)
-3. modul main [ Klik Disini ](main.py)
+1. https://youtu.be/niAi-TKiKug
 
 Cukup sekian Penjelasan dari saya.
 
